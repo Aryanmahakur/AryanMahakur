@@ -1,19 +1,9 @@
 # Hi there! 👋
 
-<div style="max-width: 540px; font-size: 15px; line-height: 1.6;">
-
-I’m a **Computer Science Student & AI Enthusiast**  
-passionate about crafting software, solving complex  
-problems, and learning by building real-world projects.  
-
-Currently diving deep into **Machine Learning**  
-and **Deep Learning**, exploring how intelligent  
-systems can create practical, impactful solutions.  
-
-Always experimenting with new technologies  
-and sharpening my engineering toolkit.
-
+<div style="max-width: 50ch; font-size: 15px; line-height: 1.6;">
+I’m a Computer Science student with a passion for software development and problem solving, currently exploring the field of Artificial Intelligence. I enjoy learning through hands-on projects, experimenting with new technologies, and turning ideas into practical solutions.
 </div>
+
 
 ---
 
@@ -25,14 +15,14 @@ and sharpening my engineering toolkit.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**AI, Machine Learning & Deep Learning**  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**AI & Data Science**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1f425f?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-24292e?style=for-the-badge)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
